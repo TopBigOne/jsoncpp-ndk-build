@@ -15,3 +15,7 @@ build it:
 cd path/to/jsoncpp-ndk-build
 ndk-build
 ```
+# 编译so库
+```shell
+ndk-build
+```
